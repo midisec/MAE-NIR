@@ -2,13 +2,13 @@
 
 MAE-NIR is a sophisticated machine learning model tailored for the enhancement and analysis of near-infrared spectral data. The code implements the MAE-NIR framework for enhancing NIR spectral data to predict soil properties.
 
-The code in this toolbox implements the ["MAE-NIR: A Masked Autoencoder that Enhances Near-Infrared Spectral Data to Predict Soil Properties"]("#")
+The code in this toolbox implements the ["MAE-NIR: A Masked Autoencoder that Enhances Near-Infrared Spectral Data to Predict Soil Properties"]()
 
 
 
 The complete framework is as follows.
 
-![Complete framework](Complete framework.png)
+![Complete framework](Complete_framework.png)
 
 ## Features
 
