@@ -8,7 +8,7 @@ The code in this toolbox implements the ["MAE-NIR: A Masked Autoencoder that Enh
 
 The complete framework is as follows.
 
-![Complete framework](.\Complete framework.png)
+![Complete framework](Complete framework.png)
 
 ## Features
 
@@ -94,11 +94,11 @@ python3 MAE_test.py
 
 MAE-1D:
 
-![MAE1D](.\MAE1D.png)
+![MAE1D](MAE1D.png)
 
 MAE-2D:
 
-![MAE2D](.\MAE2D.png)
+![MAE2D](MAE2D.png)
 
 
 
